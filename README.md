@@ -10,3 +10,14 @@ const lineBreak = () => console.log("");
 ```
 
 * Debugging
+
+
+
+* object
+```
+var king = { firstName: "Ned", lastName:"Stark", age:40};
+
+Object.keys(king);
+
+["firstName", "lastName", "age"]
+```
