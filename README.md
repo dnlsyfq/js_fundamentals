@@ -1,3 +1,9 @@
+* boolean
+```
+true
+false
+```
+
 
 * String Interpolation
 ```
