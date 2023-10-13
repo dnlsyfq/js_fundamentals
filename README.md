@@ -27,3 +27,10 @@ Object.keys(king);
 
 ["firstName", "lastName", "age"]
 ```
+
+* if
+
+```
+if(condition){
+}
+```
