@@ -1,3 +1,9 @@
+**data types**
+```
+
+```
+
+
 * boolean
 ```
 true
