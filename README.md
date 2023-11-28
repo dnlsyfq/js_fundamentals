@@ -1,7 +1,11 @@
 **data types**
-```
-
-```
+* string
+* number
+* boolean
+* null // absence of value
+* undefined // not yet assigned a value
+* bigint // greater range of number
+* symbol // unique identifier 
 
 
 * boolean
