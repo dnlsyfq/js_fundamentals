@@ -7,6 +7,13 @@
 * bigint // greater range of number
 * symbol // unique identifier 
 
+* Operator
+```
+let timeRemaining = 0
+let energy = 10
+
+console.log(`Game over: ${timeRemaining == 0 || energy == 0}`)
+```
 
 * boolean
 ```
