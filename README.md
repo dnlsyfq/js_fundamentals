@@ -51,3 +51,15 @@ Object.keys(king);
 if(condition){
 }
 ```
+
+* for
+```
+for(initiation; condition; update){
+}
+```
+
+* array
+```
+array.length
+array.push(var) // add element to the last
+```
