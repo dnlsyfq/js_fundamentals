@@ -63,3 +63,20 @@ for(initiation; condition; update){
 array.length
 array.push(var) // add element to the last
 ```
+
+* math
+```
+const secsPerMin = 60;
+const minsPerHour = 60;
+const hoursPerDay = 24;
+const daysPerWeek = 7;
+const weeksPerYear = 52;
+
+const secondsPerDay = hoursPerDay * minsPerHour * secsPerMin;
+
+let sentence = document.querySelector('main')
+sentence.innerHTML = `<h1>There are ${secondsPerDay} seconds in a day.</h1>`;
+
+const yearsAlive = 34 * weeksPerYear * daysPerWeek * hoursPerDay * minsPerHour * secsPerMin;
+sentence.innerHTML += `<h2>I've been alive for more than ${yearsAlive} seconds!</h2>`;
+```
