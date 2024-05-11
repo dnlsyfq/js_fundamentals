@@ -21,6 +21,24 @@ true
 false
 ```
 
+* typeof
+```
+typeof var
+```
+
+* convert string to integer
+```
+parseInt(var)
+```
+* unary operator
+```
++ prompt(' ')
+```
+
+* convert string to float
+```
+parseFloat(var)
+```
 
 * String Interpolation
 ```
