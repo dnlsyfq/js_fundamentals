@@ -21,6 +21,17 @@ true
 false
 ```
 
+```
+// Equal to (==) - Compares values but not types
+console.log(5 == "5");  // true (different types but same value)
+// Strictly equal to (===) - Compares both values and types
+console.log(5 === "5");  // false (different types)
+console.log(5 === 5);    // true (same type and value)
+// Not equal to (!=) and strictly not equal (!==)
+console.log(5 != "5");   // false (same value)
+console.log(5 !== "5");  // true (different types)
+```
+
 * typeof
 ```
 typeof var
