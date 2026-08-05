@@ -1,3 +1,13 @@
+* The prompt function in JavaScript is used to display a dialogue box
+```
+let iStoreValueFromDialog = prompt("Which value do I need to store?"); // String '5'
+```
+
+* convert string to integer
+```
+let nowItIsNumber = parseInt('5'); // Number 5
+```
+
 **data types**
 * string
 * number
