@@ -8,6 +8,12 @@ let iStoreValueFromDialog = prompt("Which value do I need to store?"); // String
 let nowItIsNumber = parseInt('5'); // Number 5
 ```
 
+* break line
+```
+console.log("I\nknow\nJavaScript");
+```
+
+
 **data types**
 * string
 * number
